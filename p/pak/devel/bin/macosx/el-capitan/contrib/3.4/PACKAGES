@@ -1,0 +1,14 @@
+Package: pak
+Version: 0.2.0.9000
+Depends: R (>= 3.2)
+Imports: tools, utils
+Suggests: callr (>= 3.5.0), cli (>= 3.0.0), covr, curl, distro,
+        filelock (>= 1.0.2), glue (>= 1.3.0), mockery, pingr, jsonlite,
+        pkgcache (>= 1.2.0), pkgdepends (>= 0.1.2.9001), pkgsearch (>=
+        3.0.3), prettyunits, processx (>= 3.5.1), ps (>= 1.6.0),
+        rprojroot (>= 1.3-2), rstudioapi, testthat, tibble, withr
+License: GPL-3
+MD5sum: d76915d60c9cd6b4c1b7513c58157adf
+Built: R 3.4.4; ; 2021-12-21 06:08:27 UTC; unix
+Packaged: 2021-12-21 06:08:26 UTC; runner
+File: pak_0.2.0.9000.tgz
