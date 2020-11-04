@@ -15,14 +15,13 @@ File: pak_0.1.2.9000.zip
 Package: pak
 Version: 0.1.2.9001
 Depends: R (>= 3.2)
-Imports: utils
-Suggests: callr (>= 3.4.2.9000), cli (>= 2.0.2), covr, crayon (>=
-        1.3.4), curl, desc (>= 1.2.0), distro, filelock (>= 1.0.2),
-        glue (>= 1.3.0), mockery, pingr, jsonlite, pkgcache (>= 1.1.1),
-        pkgdepends (>= 0.0.0.9007), pkgload, pkgsearch (>= 3.0.2.9000),
-        prettyunits, processx, ps (>= 1.4.0.9000), rprojroot (>=
-        1.3-2), testthat, tibble, withr, zip
+Imports: tools, utils
+Suggests: callr (>= 3.5.0), cli (>= 3.0.0), covr, curl, distro,
+        filelock (>= 1.0.2), glue (>= 1.3.0), mockery, pingr, jsonlite,
+        pkgcache (>= 1.2.0), pkgdepends (>= 0.1.2), pkgsearch (>=
+        3.0.3), prettyunits, processx (>= 3.5.1), ps (>= 1.6.0),
+        rprojroot (>= 1.3-2), rstudioapi, testthat, tibble, withr
 License: GPL-3
-Built: R 3.4.4; ; 2020-11-04 06:04:51 UTC; windows
-Packaged: 2020-11-04 06:04:50 UTC; runneradmin
+Built: R 3.4.4; ; 2021-07-15 06:03:30 UTC; windows
+Packaged: 2021-07-15 06:03:29 UTC; runneradmin
 File: pak_0.1.2.9001.zip
