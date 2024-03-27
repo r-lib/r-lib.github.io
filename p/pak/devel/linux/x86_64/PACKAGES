@@ -1,0 +1,111 @@
+Package: pak
+Version: 0.7.2.9000
+Depends: R (>= 3.5), R (<= 3.5.99)
+Imports: tools, utils
+License: GPL-3
+MD5sum: 1c0975917f8ff4c03cb15ea920ae27eb
+Sha256: 08f480a08aed6ff9cd3f1dfd4fbcaa4c79608cd3fb16e202ae6e391cbb8e64c7
+NeedsCompilation: no
+Built: R 3.5.3; x86_64-pc-linux-gnu; 2024-03-27 11:10:03 UTC; unix
+File: pak_0.7.2.9000_R-3-5_x86_64-linux.tar.gz
+DownloadURL: https://ghcr.io/v2/r-lib/pak/blobs/sha256:08f480a08aed6ff9cd3f1dfd4fbcaa4c79608cd3fb16e202ae6e391cbb8e64c7
+OS: linux
+Arch: x86_64
+
+Package: pak
+Version: 0.7.2.9000
+Depends: R (>= 3.6), R (<= 3.6.99)
+Imports: tools, utils
+License: GPL-3
+MD5sum: 5d0f48eb06ca7841f408a9a388f66cbf
+Sha256: 1283574b35ef03220eb4c732c2d398cfda38e83e17a5dc36acf16d1000c6bf7f
+NeedsCompilation: no
+Built: R 3.6.3; x86_64-pc-linux-musl; 2024-03-27 11:10:04 UTC; unix
+File: pak_0.7.2.9000_R-3-6_x86_64-linux.tar.gz
+DownloadURL: https://ghcr.io/v2/r-lib/pak/blobs/sha256:1283574b35ef03220eb4c732c2d398cfda38e83e17a5dc36acf16d1000c6bf7f
+OS: linux
+Arch: x86_64
+
+Package: pak
+Version: 0.7.2.9000
+Depends: R (>= 4.0), R (<= 4.0.99)
+Imports: tools, utils
+License: GPL-3
+MD5sum: 12b1fcc8f0cada04089a591f223bc5c2
+Sha256: 764d26eb5c22c52df9b7038886a5708923f34d14a417a48298bc343758a798b5
+NeedsCompilation: no
+Built: R 4.0.5; x86_64-pc-linux-musl; 2024-03-27 11:10:04 UTC; unix
+File: pak_0.7.2.9000_R-4-0_x86_64-linux.tar.gz
+DownloadURL: https://ghcr.io/v2/r-lib/pak/blobs/sha256:764d26eb5c22c52df9b7038886a5708923f34d14a417a48298bc343758a798b5
+OS: linux
+Arch: x86_64
+
+Package: pak
+Version: 0.7.2.9000
+Depends: R (>= 4.1), R (<= 4.1.99)
+Imports: tools, utils
+License: GPL-3
+MD5sum: e57beea1a106c18bc6b89a5b70608877
+Sha256: 0970088449ecce9084afadb2accebef45864dfbb51ccb11f3ed24952425ff71c
+NeedsCompilation: no
+Built: R 4.1.3; x86_64-pc-linux-musl; 2024-03-27 11:10:08 UTC; unix
+File: pak_0.7.2.9000_R-4-1_x86_64-linux.tar.gz
+DownloadURL: https://ghcr.io/v2/r-lib/pak/blobs/sha256:0970088449ecce9084afadb2accebef45864dfbb51ccb11f3ed24952425ff71c
+OS: linux
+Arch: x86_64
+
+Package: pak
+Version: 0.7.2.9000
+Depends: R (>= 4.2), R (<= 4.2.99)
+Imports: tools, utils
+License: GPL-3
+MD5sum: a2468d9527324098fe11cc2c0df3b4ce
+Sha256: 2ffc1abcbb5871f12e4ed9d40281378dee4d4f6f5f9339e3c56bd18b0cfb4ed8
+NeedsCompilation: no
+Built: R 4.2.3; x86_64-pc-linux-musl; 2024-03-27 11:10:04 UTC; unix
+File: pak_0.7.2.9000_R-4-2_x86_64-linux.tar.gz
+DownloadURL: https://ghcr.io/v2/r-lib/pak/blobs/sha256:2ffc1abcbb5871f12e4ed9d40281378dee4d4f6f5f9339e3c56bd18b0cfb4ed8
+OS: linux
+Arch: x86_64
+
+Package: pak
+Version: 0.7.2.9000
+Depends: R (>= 4.3), R (<= 4.3.99)
+Imports: tools, utils
+License: GPL-3
+MD5sum: c6849f87e2549276fd5f9fb5e537a5b9
+Sha256: 2de2e790bb2778ba6d35145466488b70da5641be7daaa44d79747428cf9e0ec3
+NeedsCompilation: no
+Built: R 4.3.3; x86_64-pc-linux-musl; 2024-03-27 11:10:13 UTC; unix
+File: pak_0.7.2.9000_R-4-3_x86_64-linux.tar.gz
+DownloadURL: https://ghcr.io/v2/r-lib/pak/blobs/sha256:2de2e790bb2778ba6d35145466488b70da5641be7daaa44d79747428cf9e0ec3
+OS: linux
+Arch: x86_64
+
+Package: pak
+Version: 0.7.2.9000
+Depends: R (>= 4.4), R (<= 4.4.99)
+Imports: tools, utils
+License: GPL-3
+MD5sum: 88b9e5994fe5ddba3982705da9ef5f6b
+Sha256: 518725ba11af012509a62c3edc0baaf45328f64a56babae3173153f9c0e1cfc8
+NeedsCompilation: no
+Built: R 4.4.0; x86_64-pc-linux-musl; 2024-03-27 11:10:04 UTC; unix
+File: pak_0.7.2.9000_R-4-4_x86_64-linux.tar.gz
+DownloadURL: https://ghcr.io/v2/r-lib/pak/blobs/sha256:518725ba11af012509a62c3edc0baaf45328f64a56babae3173153f9c0e1cfc8
+OS: linux
+Arch: x86_64
+
+Package: pak
+Version: 0.7.2.9000
+Depends: R (>= 4.5), R (<= 10.0.0)
+Imports: tools, utils
+License: GPL-3
+MD5sum: 6adf355937dfbb295c9cc04b2ed19ff1
+Sha256: e1b22db5852357d1d32488c9dd6c5a1e7e33de0735b93f4f875af7fa7634b3fe
+NeedsCompilation: no
+Built: R 4.5.0; x86_64-pc-linux-musl; 2024-03-27 11:10:08 UTC; unix
+File: pak_0.7.2.9000_R-4-5_x86_64-linux.tar.gz
+DownloadURL: https://ghcr.io/v2/r-lib/pak/blobs/sha256:e1b22db5852357d1d32488c9dd6c5a1e7e33de0735b93f4f875af7fa7634b3fe
+OS: linux
+Arch: x86_64
