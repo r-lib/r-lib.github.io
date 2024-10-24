@@ -1,0 +1,111 @@
+Package: pak
+Version: 0.8.0
+Depends: R (>= 3.5), R (<= 3.5.99)
+Imports: tools, utils
+License: GPL-3
+MD5sum: 9bdae278d24b6a78de80fa88e14918fc
+Sha256: 05eee76db420c884959fec2ce0eefbefd668f97fd80586da061652ffcde08571
+NeedsCompilation: no
+Built: R 3.5.3; aarch64-unknown-linux-gnu; 2024-08-09 09:54:24 UTC; unix
+File: pak_0.8.0_R-3-5_aarch64-linux.tar.gz
+DownloadURL: https://ghcr.io/v2/r-lib/pak/blobs/sha256:05eee76db420c884959fec2ce0eefbefd668f97fd80586da061652ffcde08571
+OS: linux
+Arch: aarch64
+
+Package: pak
+Version: 0.8.0
+Depends: R (>= 3.6), R (<= 3.6.99)
+Imports: tools, utils
+License: GPL-3
+MD5sum: c853437cfb808ecf0f238b9ad0841f68
+Sha256: 538ba938c60fd02b88f26c5e95fe1facd9b49955d9a1eb3c641cd04eea7102ae
+NeedsCompilation: no
+Built: R 3.6.3; aarch64-unknown-linux-musl; 2024-08-09 09:54:38 UTC; unix
+File: pak_0.8.0_R-3-6_aarch64-linux.tar.gz
+DownloadURL: https://ghcr.io/v2/r-lib/pak/blobs/sha256:538ba938c60fd02b88f26c5e95fe1facd9b49955d9a1eb3c641cd04eea7102ae
+OS: linux
+Arch: aarch64
+
+Package: pak
+Version: 0.8.0
+Depends: R (>= 4.0), R (<= 4.0.99)
+Imports: tools, utils
+License: GPL-3
+MD5sum: 8bcf5d7a973574646b0590d9d356b2e7
+Sha256: c5ec85a5cf3ea5e694bfffa058498740457ea6009629d477b12f296896bb832f
+NeedsCompilation: no
+Built: R 4.0.5; aarch64-unknown-linux-musl; 2024-08-09 09:54:45 UTC; unix
+File: pak_0.8.0_R-4-0_aarch64-linux.tar.gz
+DownloadURL: https://ghcr.io/v2/r-lib/pak/blobs/sha256:c5ec85a5cf3ea5e694bfffa058498740457ea6009629d477b12f296896bb832f
+OS: linux
+Arch: aarch64
+
+Package: pak
+Version: 0.8.0
+Depends: R (>= 4.1), R (<= 4.1.99)
+Imports: tools, utils
+License: GPL-3
+MD5sum: 0877bd81e309a2279feae682f5b084b2
+Sha256: 3d06517f2b764c3837ac1f9245cb6d74c31f77a0401209d5ba707195de362c14
+NeedsCompilation: no
+Built: R 4.1.3; aarch64-unknown-linux-musl; 2024-08-09 09:54:49 UTC; unix
+File: pak_0.8.0_R-4-1_aarch64-linux.tar.gz
+DownloadURL: https://ghcr.io/v2/r-lib/pak/blobs/sha256:3d06517f2b764c3837ac1f9245cb6d74c31f77a0401209d5ba707195de362c14
+OS: linux
+Arch: aarch64
+
+Package: pak
+Version: 0.8.0
+Depends: R (>= 4.2), R (<= 4.2.99)
+Imports: tools, utils
+License: GPL-3
+MD5sum: 08cb1020154ca206722ef4226a9f3621
+Sha256: 0718f1a46515bb431119cb4b8d60447af72a39eee29d0594bcebb6adca70a726
+NeedsCompilation: no
+Built: R 4.2.3; aarch64-unknown-linux-musl; 2024-08-09 09:54:56 UTC; unix
+File: pak_0.8.0_R-4-2_aarch64-linux.tar.gz
+DownloadURL: https://ghcr.io/v2/r-lib/pak/blobs/sha256:0718f1a46515bb431119cb4b8d60447af72a39eee29d0594bcebb6adca70a726
+OS: linux
+Arch: aarch64
+
+Package: pak
+Version: 0.8.0
+Depends: R (>= 4.3), R (<= 4.3.99)
+Imports: tools, utils
+License: GPL-3
+MD5sum: 52df4256e4011a73d0a36653961ba193
+Sha256: 657e8a0003496b46039fc00162ba16427b717c33009b5a89d0cfc769691d01f0
+NeedsCompilation: no
+Built: R 4.3.3; aarch64-unknown-linux-musl; 2024-08-09 09:55:07 UTC; unix
+File: pak_0.8.0_R-4-3_aarch64-linux.tar.gz
+DownloadURL: https://ghcr.io/v2/r-lib/pak/blobs/sha256:657e8a0003496b46039fc00162ba16427b717c33009b5a89d0cfc769691d01f0
+OS: linux
+Arch: aarch64
+
+Package: pak
+Version: 0.8.0
+Depends: R (>= 4.4), R (<= 4.4.99)
+Imports: tools, utils
+License: GPL-3
+MD5sum: 766a8f0db70b8d487c23e1817dd2802f
+Sha256: d7235c97b04fdc28eefba8593bc86444ac3da9818cccc704b395d66077c951ed
+NeedsCompilation: no
+Built: R 4.4.1; aarch64-unknown-linux-musl; 2024-08-09 09:55:11 UTC; unix
+File: pak_0.8.0_R-4-4_aarch64-linux.tar.gz
+DownloadURL: https://ghcr.io/v2/r-lib/pak/blobs/sha256:d7235c97b04fdc28eefba8593bc86444ac3da9818cccc704b395d66077c951ed
+OS: linux
+Arch: aarch64
+
+Package: pak
+Version: 0.8.0
+Depends: R (>= 4.5), R (<= 10.0.0)
+Imports: tools, utils
+License: GPL-3
+MD5sum: aa81582b0e1532fa89fb929d04973c4f
+Sha256: b0478ec9cddff66d5882af379b993f516791cf9a207e0cb9ce903ce6e37eb476
+NeedsCompilation: no
+Built: R 4.5.0; aarch64-unknown-linux-musl; 2024-08-09 09:55:14 UTC; unix
+File: pak_0.8.0_R-4-5_aarch64-linux.tar.gz
+DownloadURL: https://ghcr.io/v2/r-lib/pak/blobs/sha256:b0478ec9cddff66d5882af379b993f516791cf9a207e0cb9ce903ce6e37eb476
+OS: linux
+Arch: aarch64
