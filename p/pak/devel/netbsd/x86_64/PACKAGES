@@ -1,0 +1,13 @@
+Package: pak
+Version: 0.8.0.9000
+Depends: R (>= 4.4), R (<= 10.0.0)
+Imports: tools, utils
+License: GPL-3
+MD5sum: e3a9152182bd411fcd371547f591e4e1
+Sha256: 33b5a6eac62e683b32755e636b1d5eb2a138450ebf31dd5dd31787eb4c3a9b3e
+NeedsCompilation: no
+Built: R 4.4.1; x86_64--netbsd; 2024-10-24 13:04:42 UTC; unix
+File: pak_0.8.0.9000_R-4-4_x86_64-netbsd.tar.gz
+DownloadURL: https://ghcr.io/v2/r-lib/pak/blobs/sha256:33b5a6eac62e683b32755e636b1d5eb2a138450ebf31dd5dd31787eb4c3a9b3e
+OS: netbsd
+Arch: x86_64
