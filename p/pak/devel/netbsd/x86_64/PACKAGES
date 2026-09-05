@@ -1,0 +1,41 @@
+Package: pak
+Version: 0.9.4.9000
+Depends: R (>= 4.4), R (<= 4.4.99)
+Imports: tools, utils
+License: GPL-3
+MD5sum: 9c08b2a012b3d9745b05f33dd69332be
+Sha256: ca0dd2f37fbb7857b11f6c6bcd3a2c3ddb5342bc994c07a5943e92f2538b31da
+NeedsCompilation: no
+Built: R 4.4.2; x86_64--netbsd; 2026-04-24 07:21:08 UTC; unix
+File: pak_0.9.4.9000_R-4-4_x86_64-netbsd.tar.gz
+DownloadURL: https://ghcr.io/v2/r-lib/pak/blobs/sha256:ca0dd2f37fbb7857b11f6c6bcd3a2c3ddb5342bc994c07a5943e92f2538b31da
+OS: netbsd
+Arch: x86_64
+
+Package: pak
+Version: 0.11.0.9000
+Depends: R (>= 4.5), R (<= 4.5.99)
+Imports: tools, utils
+License: GPL-3
+MD5sum: ef65b8939b9f6bab7f9b49d8257d8ce6
+Sha256: 834eda9e785f850dfd28c5d91cb2e0a38a481f4492f17a9844d4acbf271c85ff
+NeedsCompilation: no
+Built: R 4.5.2; x86_64--netbsd; 2026-07-19 07:43:32 UTC; unix
+File: pak_0.11.0.9000_R-4-5_x86_64-netbsd.tar.gz
+DownloadURL: https://ghcr.io/v2/r-lib/pak/blobs/sha256:834eda9e785f850dfd28c5d91cb2e0a38a481f4492f17a9844d4acbf271c85ff
+OS: netbsd
+Arch: x86_64
+
+Package: pak
+Version: 0.11.1.9000
+Depends: R (>= 4.6), R (<= 10.0.0)
+Imports: tools, utils
+License: GPL-3
+MD5sum: 67029c62d6c87d7bfd752bffc2ceea03
+Sha256: d0b941d6cc8818655a210b68a121e76e2b47aec512707f5bfd04adcebe07de4f
+NeedsCompilation: no
+Built: R 4.6.0; x86_64--netbsd; 2026-09-05 09:24:01 UTC; unix
+File: pak_0.11.1.9000_R-4-6_x86_64-netbsd.tar.gz
+DownloadURL: https://ghcr.io/v2/r-lib/pak/blobs/sha256:d0b941d6cc8818655a210b68a121e76e2b47aec512707f5bfd04adcebe07de4f
+OS: netbsd
+Arch: x86_64
