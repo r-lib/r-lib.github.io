@@ -1,0 +1,44 @@
+Package: pak
+Version: 0.8.0.9000
+Depends: R (>= 4.4), R (<= 4.4.99)
+Imports: tools, utils
+License: GPL-3
+MD5sum: 96cb9974210cc795cc5fd34e04225576
+Sha256: ab948336edd81e05a82fd2ff19d038bc5576061258d26dbdf25124a5c389dd3f
+NeedsCompilation: no
+Built: R 4.4.3; amd64-portbld-freebsd15.0; 2025-05-23 05:53:50 UTC; unix
+File: pak_0.8.0.9000_R-4-4_x86_64-freebsd15.0.tar.gz
+DownloadURL: https://ghcr.io/v2/r-lib/pak/blobs/sha256:ab948336edd81e05a82fd2ff19d038bc5576061258d26dbdf25124a5c389dd3f
+OS: freebsd15.0
+Arch: x86_64
+Path: ../../../../../freebsd15.0/x86_64
+
+Package: pak
+Version: 0.9.5.9000
+Depends: R (>= 4.5), R (<= 4.5.99)
+Imports: tools, utils
+License: GPL-3
+MD5sum: 480929883068105603573963e4ddb852
+Sha256: 68cd1f24a04248be2ed10d4c0f6d5c8d09f316855e92c7d081921c2faa7bb5fc
+NeedsCompilation: no
+Built: R 4.5.3; amd64-portbld-freebsd15.0; 2026-05-06 07:57:05 UTC; unix
+File: pak_0.9.5.9000_R-4-5_x86_64-freebsd15.0.tar.gz
+DownloadURL: https://ghcr.io/v2/r-lib/pak/blobs/sha256:68cd1f24a04248be2ed10d4c0f6d5c8d09f316855e92c7d081921c2faa7bb5fc
+OS: freebsd15.0
+Arch: x86_64
+Path: ../../../../../freebsd15.0/x86_64
+
+Package: pak
+Version: 0.11.1.9000
+Depends: R (>= 4.6), R (<= 10.0.0)
+Imports: tools, utils
+License: GPL-3
+MD5sum: ccba7fe8c7a8daa457f19363536460e5
+Sha256: aa081d7d4f5f2e9c60d08a26f1af4751836bcb30984dda17e26888c58761789a
+NeedsCompilation: no
+Built: R 4.6.1; amd64-portbld-freebsd15.0; 2026-09-13 10:34:14 UTC; unix
+File: pak_0.11.1.9000_R-4-6_x86_64-freebsd15.0.tar.gz
+DownloadURL: https://ghcr.io/v2/r-lib/pak/blobs/sha256:aa081d7d4f5f2e9c60d08a26f1af4751836bcb30984dda17e26888c58761789a
+OS: freebsd15.0
+Arch: x86_64
+Path: ../../../../../freebsd15.0/x86_64
