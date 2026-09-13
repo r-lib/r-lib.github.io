@@ -1,0 +1,13 @@
+Package: pak
+Version: 0.11.1.9000
+Depends: R (>= 4.6), R (<= 10.0.0)
+Imports: tools, utils
+License: GPL-3
+MD5sum: c84d674e1170fe21f9c6d8f54ca6952f
+Sha256: b7c2e105e6a7460d242e306defb312d265292e54e20285957240b04577f50130
+NeedsCompilation: no
+Built: R 4.6.1; amd64-portbld-freebsd14.4; 2026-09-13 10:34:07 UTC; unix
+File: pak_0.11.1.9000_R-4-6_x86_64-freebsd14.4.tar.gz
+DownloadURL: https://ghcr.io/v2/r-lib/pak/blobs/sha256:b7c2e105e6a7460d242e306defb312d265292e54e20285957240b04577f50130
+OS: freebsd14.4
+Arch: x86_64
