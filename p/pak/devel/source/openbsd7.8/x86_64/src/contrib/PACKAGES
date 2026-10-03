@@ -1,0 +1,14 @@
+Package: pak
+Version: 0.11.1.9000
+Depends: R (>= 4.5), R (<= 10.0.0)
+Imports: tools, utils
+License: GPL-3
+MD5sum: 39ce46e28c97b2544870ba9285b38b78
+Sha256: df71b9bbe202d875857f313b288354feb3df7973ebd93b7210afbe29cca7d43d
+NeedsCompilation: no
+Built: R 4.5.1; x86_64-unknown-openbsd7.8; 2026-10-03 10:36:41 UTC; unix
+File: pak_0.11.1.9000_R-4-5_x86_64-openbsd7.8.tar.gz
+DownloadURL: https://ghcr.io/v2/r-lib/pak/blobs/sha256:df71b9bbe202d875857f313b288354feb3df7973ebd93b7210afbe29cca7d43d
+OS: openbsd7.8
+Arch: x86_64
+Path: ../../../../../openbsd7.8/x86_64
