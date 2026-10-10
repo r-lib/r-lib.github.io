@@ -1,0 +1,69 @@
+Package: pak
+Version: 0.11.1
+Depends: R (>= 4.3), R (<= 4.3.99)
+Imports: tools, utils
+License: GPL-3
+MD5sum: 86ddfd344fbe803937eb693e93a6ea40
+Sha256: 61a5d1480fe6a84a4b5af04753661c89b586086618437f30dc0860e6be3dd4cf
+NeedsCompilation: no
+Built: R 4.3.3; x86_64-apple-darwin20; 2026-07-22 17:20:49 UTC; unix
+File: pak_0.11.1_R-4-3_x86_64-darwin20.tgz
+DownloadURL: https://ghcr.io/v2/r-lib/pak/blobs/sha256:61a5d1480fe6a84a4b5af04753661c89b586086618437f30dc0860e6be3dd4cf
+OS: darwin20
+Arch: x86_64
+
+Package: pak
+Version: 0.11.1
+Depends: R (>= 4.4), R (<= 4.4.99)
+Imports: tools, utils
+License: GPL-3
+MD5sum: 921bf880112fc97c9894111848d2530d
+Sha256: 864365e485c32752f90906c8a66176e29083de8220c6d537dc5a7c4b524ee605
+NeedsCompilation: no
+Built: R 4.4.3; x86_64-apple-darwin20; 2026-07-22 17:44:33 UTC; unix
+File: pak_0.11.1_R-4-4_x86_64-darwin20.tgz
+DownloadURL: https://ghcr.io/v2/r-lib/pak/blobs/sha256:864365e485c32752f90906c8a66176e29083de8220c6d537dc5a7c4b524ee605
+OS: darwin20
+Arch: x86_64
+
+Package: pak
+Version: 0.11.1
+Depends: R (>= 4.5), R (<= 4.5.99)
+Imports: tools, utils
+License: GPL-3
+MD5sum: ad7052663835a2ddf49884755c1d8eff
+Sha256: 5e8feed0bb5ad004328f78f36c8755f22109c68ac4a6cdc8e1f047c3b19de3f7
+NeedsCompilation: no
+Built: R 4.5.3; x86_64-apple-darwin20; 2026-07-22 17:34:36 UTC; unix
+File: pak_0.11.1_R-4-5_x86_64-darwin20.tgz
+DownloadURL: https://ghcr.io/v2/r-lib/pak/blobs/sha256:5e8feed0bb5ad004328f78f36c8755f22109c68ac4a6cdc8e1f047c3b19de3f7
+OS: darwin20
+Arch: x86_64
+
+Package: pak
+Version: 0.11.1
+Depends: R (>= 4.6), R (<= 4.6.99)
+Imports: tools, utils
+License: GPL-3
+MD5sum: 2807887969192ffe1fe3a454362d8e77
+Sha256: 6c28070a013c90d766689ea23120b0d25f413a69d4c92f880302ac7128e06397
+NeedsCompilation: no
+Built: R 4.6.1; x86_64-apple-darwin20; 2026-07-22 17:20:58 UTC; unix
+File: pak_0.11.1_R-4-6_x86_64-darwin20.tgz
+DownloadURL: https://ghcr.io/v2/r-lib/pak/blobs/sha256:6c28070a013c90d766689ea23120b0d25f413a69d4c92f880302ac7128e06397
+OS: darwin20
+Arch: x86_64
+
+Package: pak
+Version: 0.11.1
+Depends: R (>= 4.7), R (<= 10.0.0)
+Imports: tools, utils
+License: GPL-3
+MD5sum: 8fa458711f1b9f9b9f1929281902f757
+Sha256: d9d0413af57375380051ff999d3e3b2964e1f71ebd30223c2fdc3f83a7d6717e
+NeedsCompilation: no
+Built: R 4.7.0; x86_64-apple-darwin20; 2026-07-22 17:35:05 UTC; unix
+File: pak_0.11.1_R-4-7_x86_64-darwin20.tgz
+DownloadURL: https://ghcr.io/v2/r-lib/pak/blobs/sha256:d9d0413af57375380051ff999d3e3b2964e1f71ebd30223c2fdc3f83a7d6717e
+OS: darwin20
+Arch: x86_64

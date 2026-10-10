@@ -1,0 +1,29 @@
+Package: pak
+Version: 0.8.0.9000
+Depends: R (>= 4.3), R (<= 4.3.99)
+Imports: tools, utils
+License: GPL-3
+MD5sum: 1e5aad215bbe661ffb37cc6259830c21
+Sha256: ce073ba63f3ce5876664d25a44e65224a33ae21e166cc409a56b8b608995d65a
+NeedsCompilation: no
+Built: R 4.3.2; x86_64-portbld-dragonfly6.4; 2025-03-16 05:47:00 UTC; unix
+File: pak_0.8.0.9000_R-4-3_x86_64-dragonfly6.4.tar.gz
+DownloadURL: https://ghcr.io/v2/r-lib/pak/blobs/sha256:ce073ba63f3ce5876664d25a44e65224a33ae21e166cc409a56b8b608995d65a
+OS: dragonfly6.4
+Arch: x86_64
+Path: ../../../../../dragonfly6.4/x86_64
+
+Package: pak
+Version: 0.11.1.9000
+Depends: R (>= 4.4), R (<= 10.0.0)
+Imports: tools, utils
+License: GPL-3
+MD5sum: ecef16fed33e4d3bf557614cf87be9c2
+Sha256: 386e8ab149980907ee99342fa0af02b3e38aadbc150113c8cb26e6fd1d7366ab
+NeedsCompilation: no
+Built: R 4.4.3; x86_64-portbld-dragonfly6.4; 2026-10-10 11:22:29 UTC; unix
+File: pak_0.11.1.9000_R-4-4_x86_64-dragonfly6.4.tar.gz
+DownloadURL: https://ghcr.io/v2/r-lib/pak/blobs/sha256:386e8ab149980907ee99342fa0af02b3e38aadbc150113c8cb26e6fd1d7366ab
+OS: dragonfly6.4
+Arch: x86_64
+Path: ../../../../../dragonfly6.4/x86_64
