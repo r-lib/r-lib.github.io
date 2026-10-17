@@ -1,0 +1,55 @@
+Package: pak
+Version: 0.11.1.9000
+Depends: R (>= 4.6), R (<= 4.6.99)
+Imports: tools, utils
+License: GPL-3
+MD5sum: d26aed57ad515855bf7734b1768a884b
+Sha256: d5b0d4ce97ed34add2d54850a19075646f8e1bc4a4463eda4bcb15007b3f27e7
+NeedsCompilation: no
+Built: R 4.6.1; aarch64-w64-mingw32; 2026-10-17 09:41:17 UTC; windows
+File: pak_0.11.1.9000-4-6.zip
+DownloadURL: https://ghcr.io/v2/r-lib/pak/blobs/sha256:d5b0d4ce97ed34add2d54850a19075646f8e1bc4a4463eda4bcb15007b3f27e7
+OS: mingw32
+Arch: aarch64
+
+Package: pak
+Version: 0.11.1.9000
+Depends: R (>= 4.4), R (<= 4.4.99)
+Imports: tools, utils
+License: GPL-3
+MD5sum: f91bef75362f38b4342493d61c31ceba
+Sha256: 3ec694f67999cf37f401cd512381980b721e207d5f38711e1c0403a7b0540eb2
+NeedsCompilation: no
+Built: R 4.4.3; aarch64-w64-mingw32; 2026-10-17 09:40:51 UTC; windows
+File: pak_0.11.1.9000-4-4.zip
+DownloadURL: https://ghcr.io/v2/r-lib/pak/blobs/sha256:3ec694f67999cf37f401cd512381980b721e207d5f38711e1c0403a7b0540eb2
+OS: mingw32
+Arch: aarch64
+
+Package: pak
+Version: 0.11.1.9000
+Depends: R (>= 4.5), R (<= 4.5.99)
+Imports: tools, utils
+License: GPL-3
+MD5sum: c40931c03a581359c0942821392401b6
+Sha256: ddefd4004792d1044896972f7460f7d90303358b1fbfbcb46b9b881438c8f173
+NeedsCompilation: no
+Built: R 4.5.3; aarch64-w64-mingw32; 2026-10-17 09:44:07 UTC; windows
+File: pak_0.11.1.9000-4-5.zip
+DownloadURL: https://ghcr.io/v2/r-lib/pak/blobs/sha256:ddefd4004792d1044896972f7460f7d90303358b1fbfbcb46b9b881438c8f173
+OS: mingw32
+Arch: aarch64
+
+Package: pak
+Version: 0.11.1.9000
+Depends: R (>= 4.7), R (<= 10.0.0)
+Imports: tools, utils
+License: GPL-3
+MD5sum: a06a0337acd42003467adbc7fa800e74
+Sha256: 4d59425127b226d47764ff0118669f0f206bd1a88597474fe2ab9beb9e1077f9
+NeedsCompilation: no
+Built: R 4.7.0; aarch64-w64-mingw32; 2026-10-17 09:41:52 UTC; windows
+File: pak_0.11.1.9000-4-7.zip
+DownloadURL: https://ghcr.io/v2/r-lib/pak/blobs/sha256:4d59425127b226d47764ff0118669f0f206bd1a88597474fe2ab9beb9e1077f9
+OS: mingw32
+Arch: aarch64
