@@ -1,0 +1,149 @@
+Package: pak
+Version: 0.11.1
+Depends: R (>= 3.5), R (<= 3.5.99)
+Imports: tools, utils
+License: GPL-3
+MD5sum: 0bd5fe643c0aa86291ad83467d6124e5
+Sha256: 7663ffe9175d6290f4c5a98ffd76c48d76c1f83801a32af86ba06c617b396f55
+NeedsCompilation: no
+Built: R 3.5.3; aarch64-unknown-linux-gnu; 2026-07-22 17:27:41 UTC; unix
+File: pak_0.11.1_R-3-5_aarch64-linux-gnu.tar.gz
+DownloadURL: https://ghcr.io/v2/r-lib/pak/blobs/sha256:7663ffe9175d6290f4c5a98ffd76c48d76c1f83801a32af86ba06c617b396f55
+OS: linux-gnu
+Arch: aarch64
+Path: ../../../stable/linux-gnu/aarch64
+
+Package: pak
+Version: 0.11.1
+Depends: R (>= 3.6), R (<= 3.6.99)
+Imports: tools, utils
+License: GPL-3
+MD5sum: 278352b177102a53cf6b67b5eac53501
+Sha256: 0688814deae7cbd9feee285489c1261d23a042529b7899e4479ac047649f972d
+NeedsCompilation: no
+Built: R 3.6.3; aarch64-unknown-linux-gnu; 2026-07-22 17:28:26 UTC; unix
+File: pak_0.11.1_R-3-6_aarch64-linux-gnu.tar.gz
+DownloadURL: https://ghcr.io/v2/r-lib/pak/blobs/sha256:0688814deae7cbd9feee285489c1261d23a042529b7899e4479ac047649f972d
+OS: linux-gnu
+Arch: aarch64
+Path: ../../../stable/linux-gnu/aarch64
+
+Package: pak
+Version: 0.11.1
+Depends: R (>= 4.0), R (<= 4.0.99)
+Imports: tools, utils
+License: GPL-3
+MD5sum: dc3c578f4f49cbbc1db1af28971c332a
+Sha256: 3025aa6502bb0d02b02c962311184ff255e0e666560d01d6978730466a4725de
+NeedsCompilation: no
+Built: R 4.0.5; aarch64-unknown-linux-gnu; 2026-07-22 17:31:40 UTC; unix
+File: pak_0.11.1_R-4-0_aarch64-linux-gnu.tar.gz
+DownloadURL: https://ghcr.io/v2/r-lib/pak/blobs/sha256:3025aa6502bb0d02b02c962311184ff255e0e666560d01d6978730466a4725de
+OS: linux-gnu
+Arch: aarch64
+Path: ../../../stable/linux-gnu/aarch64
+
+Package: pak
+Version: 0.11.1
+Depends: R (>= 4.1), R (<= 4.1.99)
+Imports: tools, utils
+License: GPL-3
+MD5sum: 5ced8f41266de6f7dd7942caf391659e
+Sha256: c0c2346da2563aca8601d2541534287690da885d295a4d27314974e5d95af57b
+NeedsCompilation: no
+Built: R 4.1.3; aarch64-unknown-linux-gnu; 2026-07-22 17:28:54 UTC; unix
+File: pak_0.11.1_R-4-1_aarch64-linux-gnu.tar.gz
+DownloadURL: https://ghcr.io/v2/r-lib/pak/blobs/sha256:c0c2346da2563aca8601d2541534287690da885d295a4d27314974e5d95af57b
+OS: linux-gnu
+Arch: aarch64
+Path: ../../../stable/linux-gnu/aarch64
+
+Package: pak
+Version: 0.11.1
+Depends: R (>= 4.2), R (<= 4.2.99)
+Imports: tools, utils
+License: GPL-3
+MD5sum: eed7f0e60b1f8d5ff605028bbbe1e140
+Sha256: ea0b29f6a1a8cf8b1fe27a0eab3cf21ab6b15066b9c4770aec8fcad6f8d76851
+NeedsCompilation: no
+Built: R 4.2.3; aarch64-unknown-linux-gnu; 2026-07-22 17:29:29 UTC; unix
+File: pak_0.11.1_R-4-2_aarch64-linux-gnu.tar.gz
+DownloadURL: https://ghcr.io/v2/r-lib/pak/blobs/sha256:ea0b29f6a1a8cf8b1fe27a0eab3cf21ab6b15066b9c4770aec8fcad6f8d76851
+OS: linux-gnu
+Arch: aarch64
+Path: ../../../stable/linux-gnu/aarch64
+
+Package: pak
+Version: 0.11.1
+Depends: R (>= 4.3), R (<= 4.3.99)
+Imports: tools, utils
+License: GPL-3
+MD5sum: 326cfc822f79dd9a27c85ccfb873cefe
+Sha256: ebb69d187200646325747e4c70556d44a44c47c48b1b1c11a3e5f8ec91bbf5d9
+NeedsCompilation: no
+Built: R 4.3.3; aarch64-unknown-linux-gnu; 2026-07-22 17:31:37 UTC; unix
+File: pak_0.11.1_R-4-3_aarch64-linux-gnu.tar.gz
+DownloadURL: https://ghcr.io/v2/r-lib/pak/blobs/sha256:ebb69d187200646325747e4c70556d44a44c47c48b1b1c11a3e5f8ec91bbf5d9
+OS: linux-gnu
+Arch: aarch64
+Path: ../../../stable/linux-gnu/aarch64
+
+Package: pak
+Version: 0.11.1
+Depends: R (>= 4.4), R (<= 4.4.99)
+Imports: tools, utils
+License: GPL-3
+MD5sum: 86a463a9835a8091dcc15c69d5bf1ffb
+Sha256: 69d59f883fc1d8e2a4999e9f0bd691b566351ae64dbe9fc2016f88a7c9460c5c
+NeedsCompilation: no
+Built: R 4.4.3; aarch64-unknown-linux-gnu; 2026-07-22 17:32:14 UTC; unix
+File: pak_0.11.1_R-4-4_aarch64-linux-gnu.tar.gz
+DownloadURL: https://ghcr.io/v2/r-lib/pak/blobs/sha256:69d59f883fc1d8e2a4999e9f0bd691b566351ae64dbe9fc2016f88a7c9460c5c
+OS: linux-gnu
+Arch: aarch64
+Path: ../../../stable/linux-gnu/aarch64
+
+Package: pak
+Version: 0.11.1
+Depends: R (>= 4.5), R (<= 4.5.99)
+Imports: tools, utils
+License: GPL-3
+MD5sum: 550d87f28e5cd4ccd77b841d76537bd5
+Sha256: 1f4df3ca5795dac6115f9e8343ee7ce2e3e852c5bdf79e82fac88ed73df56130
+NeedsCompilation: no
+Built: R 4.5.3; aarch64-unknown-linux-gnu; 2026-07-22 17:29:26 UTC; unix
+File: pak_0.11.1_R-4-5_aarch64-linux-gnu.tar.gz
+DownloadURL: https://ghcr.io/v2/r-lib/pak/blobs/sha256:1f4df3ca5795dac6115f9e8343ee7ce2e3e852c5bdf79e82fac88ed73df56130
+OS: linux-gnu
+Arch: aarch64
+Path: ../../../stable/linux-gnu/aarch64
+
+Package: pak
+Version: 0.11.1
+Depends: R (>= 4.6), R (<= 4.6.99)
+Imports: tools, utils
+License: GPL-3
+MD5sum: 315591fed76ce582d627392b8deac565
+Sha256: 676988ad65de8c734e5941ec27730f5add54966369a2cf36adafef06546e9ef7
+NeedsCompilation: no
+Built: R 4.6.1; aarch64-unknown-linux-gnu; 2026-07-22 17:29:24 UTC; unix
+File: pak_0.11.1_R-4-6_aarch64-linux-gnu.tar.gz
+DownloadURL: https://ghcr.io/v2/r-lib/pak/blobs/sha256:676988ad65de8c734e5941ec27730f5add54966369a2cf36adafef06546e9ef7
+OS: linux-gnu
+Arch: aarch64
+Path: ../../../stable/linux-gnu/aarch64
+
+Package: pak
+Version: 0.11.1
+Depends: R (>= 4.7), R (<= 10.0.0)
+Imports: tools, utils
+License: GPL-3
+MD5sum: 593b05d34e5529ebb0529a6b11244808
+Sha256: 33f91ca6b1f1619e7b4c23bf90b67f88d4e1970a2772c0b3463962162a5cf5f3
+NeedsCompilation: no
+Built: R 4.7.0; aarch64-unknown-linux-gnu; 2026-07-22 17:32:09 UTC; unix
+File: pak_0.11.1_R-4-7_aarch64-linux-gnu.tar.gz
+DownloadURL: https://ghcr.io/v2/r-lib/pak/blobs/sha256:33f91ca6b1f1619e7b4c23bf90b67f88d4e1970a2772c0b3463962162a5cf5f3
+OS: linux-gnu
+Arch: aarch64
+Path: ../../../stable/linux-gnu/aarch64
