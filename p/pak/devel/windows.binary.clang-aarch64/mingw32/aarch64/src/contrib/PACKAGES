@@ -1,0 +1,59 @@
+Package: pak
+Version: 0.11.1.9000
+Depends: R (>= 4.6), R (<= 4.6.99)
+Imports: tools, utils
+License: GPL-3
+MD5sum: d93f998a6c2242a5211369b910ff0276
+Sha256: 5bdb8d426269a33eda2d7cf742025758ce5ab940e8ead5ae33d6b20a0b21d974
+NeedsCompilation: no
+Built: R 4.6.2; aarch64-w64-mingw32; 2026-11-06 13:18:45 UTC; windows
+File: pak_0.11.1.9000-4-6.zip
+DownloadURL: https://ghcr.io/v2/r-lib/pak/blobs/sha256:5bdb8d426269a33eda2d7cf742025758ce5ab940e8ead5ae33d6b20a0b21d974
+OS: mingw32
+Arch: aarch64
+Path: ../../../../../mingw32/aarch64
+
+Package: pak
+Version: 0.11.1.9000
+Depends: R (>= 4.4), R (<= 4.4.99)
+Imports: tools, utils
+License: GPL-3
+MD5sum: f50e5b7b8ff2408fd5caef4e166e1ab7
+Sha256: 66e99624122078aa5ae6a34b042fbad8b708586498687be299c898dfd5621ff3
+NeedsCompilation: no
+Built: R 4.4.3; aarch64-w64-mingw32; 2026-11-06 13:14:00 UTC; windows
+File: pak_0.11.1.9000-4-4.zip
+DownloadURL: https://ghcr.io/v2/r-lib/pak/blobs/sha256:66e99624122078aa5ae6a34b042fbad8b708586498687be299c898dfd5621ff3
+OS: mingw32
+Arch: aarch64
+Path: ../../../../../mingw32/aarch64
+
+Package: pak
+Version: 0.11.1.9000
+Depends: R (>= 4.5), R (<= 4.5.99)
+Imports: tools, utils
+License: GPL-3
+MD5sum: fc1a3244715a19c29ed25ac9f9126bdd
+Sha256: 490a3518af1f7cfec7c0278bf9c3e17dbb9efaeb20775f958e1878df73d12f0e
+NeedsCompilation: no
+Built: R 4.5.3; aarch64-w64-mingw32; 2026-11-06 13:19:51 UTC; windows
+File: pak_0.11.1.9000-4-5.zip
+DownloadURL: https://ghcr.io/v2/r-lib/pak/blobs/sha256:490a3518af1f7cfec7c0278bf9c3e17dbb9efaeb20775f958e1878df73d12f0e
+OS: mingw32
+Arch: aarch64
+Path: ../../../../../mingw32/aarch64
+
+Package: pak
+Version: 0.11.1.9000
+Depends: R (>= 4.7), R (<= 10.0.0)
+Imports: tools, utils
+License: GPL-3
+MD5sum: b5274e99d2adc78e176b21c72aedcbdd
+Sha256: fb35ab868bc6e4702939455ba4903572a940e2e414f6da6c4715a229ab590051
+NeedsCompilation: no
+Built: R 4.7.0; aarch64-w64-mingw32; 2026-11-06 13:15:16 UTC; windows
+File: pak_0.11.1.9000-4-7.zip
+DownloadURL: https://ghcr.io/v2/r-lib/pak/blobs/sha256:fb35ab868bc6e4702939455ba4903572a940e2e414f6da6c4715a229ab590051
+OS: mingw32
+Arch: aarch64
+Path: ../../../../../mingw32/aarch64
