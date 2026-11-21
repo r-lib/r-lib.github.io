@@ -1,0 +1,59 @@
+Package: pak
+Version: 0.11.2.9000
+Depends: R (>= 4.6), R (<= 4.6.99)
+Imports: tools, utils
+License: GPL-3
+MD5sum: 2e0f78bc80eabb1565208ed2083eef59
+Sha256: 77d125f5007d01b69a85c520fd29bc7ed5b206581d3dc285bc4107296dd3ba75
+NeedsCompilation: no
+Built: R 4.6.2; aarch64-w64-mingw32; 2026-11-21 13:48:13 UTC; windows
+File: pak_0.11.2.9000-4-6.zip
+DownloadURL: https://ghcr.io/v2/r-lib/pak/blobs/sha256:77d125f5007d01b69a85c520fd29bc7ed5b206581d3dc285bc4107296dd3ba75
+OS: mingw32
+Arch: aarch64
+Path: ../../../../../../../../mingw32/aarch64
+
+Package: pak
+Version: 0.11.2.9000
+Depends: R (>= 4.4), R (<= 4.4.99)
+Imports: tools, utils
+License: GPL-3
+MD5sum: 95a20a7fdfd762824882ab608648a80f
+Sha256: 79d8f02853ade929d87e9e9f722ad3738b73acd3c7cbf10f947cd32ca59a71a6
+NeedsCompilation: no
+Built: R 4.4.3; aarch64-w64-mingw32; 2026-11-21 13:46:38 UTC; windows
+File: pak_0.11.2.9000-4-4.zip
+DownloadURL: https://ghcr.io/v2/r-lib/pak/blobs/sha256:79d8f02853ade929d87e9e9f722ad3738b73acd3c7cbf10f947cd32ca59a71a6
+OS: mingw32
+Arch: aarch64
+Path: ../../../../../../../../mingw32/aarch64
+
+Package: pak
+Version: 0.11.2.9000
+Depends: R (>= 4.5), R (<= 4.5.99)
+Imports: tools, utils
+License: GPL-3
+MD5sum: 40d0abdf8c3e026b0b8918ce94ab3cc7
+Sha256: f98990aec95b2fbc92544bf081994e6f70d2a22c9fdb8a1525ee0d5192890ec6
+NeedsCompilation: no
+Built: R 4.5.3; aarch64-w64-mingw32; 2026-11-21 13:49:14 UTC; windows
+File: pak_0.11.2.9000-4-5.zip
+DownloadURL: https://ghcr.io/v2/r-lib/pak/blobs/sha256:f98990aec95b2fbc92544bf081994e6f70d2a22c9fdb8a1525ee0d5192890ec6
+OS: mingw32
+Arch: aarch64
+Path: ../../../../../../../../mingw32/aarch64
+
+Package: pak
+Version: 0.11.2.9000
+Depends: R (>= 4.7), R (<= 10.0.0)
+Imports: tools, utils
+License: GPL-3
+MD5sum: b7c225db4f11fcfd713e69c27438c10b
+Sha256: 0dc1ff02a6d436a6a456b8a4d8810cf6114777faee36ef019dbd1002b977f34a
+NeedsCompilation: no
+Built: R 4.7.0; aarch64-w64-mingw32; 2026-11-21 13:46:52 UTC; windows
+File: pak_0.11.2.9000-4-7.zip
+DownloadURL: https://ghcr.io/v2/r-lib/pak/blobs/sha256:0dc1ff02a6d436a6a456b8a4d8810cf6114777faee36ef019dbd1002b977f34a
+OS: mingw32
+Arch: aarch64
+Path: ../../../../../../../../mingw32/aarch64
