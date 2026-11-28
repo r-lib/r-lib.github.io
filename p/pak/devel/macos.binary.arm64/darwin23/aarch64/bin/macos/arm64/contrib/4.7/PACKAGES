@@ -1,0 +1,29 @@
+Package: pak
+Version: 0.11.2.9000
+Depends: R (>= 4.6), R (<= 4.6.99)
+Imports: tools, utils
+License: GPL-3
+MD5sum: 5a4000f077b00a9fa3464bfd7535020f
+Sha256: cd7e49ff739cd7aa277e18fc397cd782d8000153f09a8350cf4d407725ed9bbb
+NeedsCompilation: no
+Built: R 4.6.2; aarch64-apple-darwin23; 2026-11-28 14:49:36 UTC; unix
+File: pak_0.11.2.9000_R-4-6_aarch64-darwin23.tgz
+DownloadURL: https://ghcr.io/v2/r-lib/pak/blobs/sha256:cd7e49ff739cd7aa277e18fc397cd782d8000153f09a8350cf4d407725ed9bbb
+OS: darwin23
+Arch: aarch64
+Path: ../../../../../../../../darwin23/aarch64
+
+Package: pak
+Version: 0.11.2.9000
+Depends: R (>= 4.7), R (<= 10.0.0)
+Imports: tools, utils
+License: GPL-3
+MD5sum: 133e3bd5ecbef54785066d79bf0b1861
+Sha256: d661ec3915167e1e2b6b4d2baaf0630e5e873c75845465d1cdb39925e9a31641
+NeedsCompilation: no
+Built: R 4.7.0; aarch64-apple-darwin23; 2026-11-28 14:51:01 UTC; unix
+File: pak_0.11.2.9000_R-4-7_aarch64-darwin23.tgz
+DownloadURL: https://ghcr.io/v2/r-lib/pak/blobs/sha256:d661ec3915167e1e2b6b4d2baaf0630e5e873c75845465d1cdb39925e9a31641
+OS: darwin23
+Arch: aarch64
+Path: ../../../../../../../../darwin23/aarch64
